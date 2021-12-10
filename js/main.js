@@ -234,6 +234,7 @@ const app = new Vue({
 //         })
 //     }
 // }
+// rere
 //
 // class CartItem extends Item{
 //     constructor(el, img = 'https://placehold.it/50x100'){
